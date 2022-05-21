@@ -1,6 +1,9 @@
-## Hi there 👋
+# Cortside Consulting
+
+The repositories here are templates, commonly used components and generalized services.
 
 <!--
+## Hi there 👋
 
 **Here are some ideas to get you started:**
 
