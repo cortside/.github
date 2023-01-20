@@ -1,7 +1,7 @@
 <!--
 # Cortside Consulting
 -->
-The repositories here are templates, commonly used components, generalized services, samples, and ideas.
+The repositories here are libraries for common problems brought together in templates, commonly used components, generalized services, samples, and ideas.
 
 <!--
 ## Hi there 👋
